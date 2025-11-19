@@ -1,4 +1,4 @@
-package com.example.minicommerce.ui // تأكد من أن هذا يتطابق مع الإعداد في مشروعك
+package com.example.minicommerce.ui
 
 import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.*
@@ -7,7 +7,6 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AddCircle
-// هذه الأيقونات الثلاثة ضرورية ولا يجب حذفها
 
 import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material.icons.filled.ArrowDropDown

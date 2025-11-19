@@ -1,4 +1,4 @@
-package com.example.e_commerceapp // تم التغيير ليطابق اسم حزمة التطبيق
+package com.example.e_commerceapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
