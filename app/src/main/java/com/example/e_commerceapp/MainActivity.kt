@@ -12,7 +12,7 @@ import com.example.minicommerce.ui.CartScreen
 import com.example.minicommerce.ui.ProductDetailScreen
 import com.example.minicommerce.ui.ProductListScreen
 import com.example.minicommerce.viewmodel.MainViewModel
-
+ 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
